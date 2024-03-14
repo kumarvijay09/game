@@ -77,12 +77,11 @@ body{
     display: none;
 }
 
-@media(max-width:750px){
+@media(max-width:720px){
 
     .container{
    
-       margin-top: 450px;
+       margin-top: 200px;
        }
 
    }
-
