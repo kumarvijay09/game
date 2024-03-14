@@ -77,14 +77,5 @@ body{
     display: none;
 }
 
-@media(max-width:720px){
-
-    .container{
-   
-       margin-top: 200px;
-       }
-
-   }
-   
 
 
