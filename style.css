@@ -78,10 +78,11 @@ body{
 }
 
 @media(max-width:720px){
-
+     #msg{
+         font-size:6vmin;
+     }
     .container{
-   
-       margin-top: 180px;
+       height:50vh;
        }
 
    }
